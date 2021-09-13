@@ -1,6 +1,6 @@
 **Objetivo**
 
-Criação de um projeto para listar os filmes em cartaz no cinema utilizando a API The Movie Database (TMDb). Fica a critério como as informações dos filmes serão mostradas, sendo essencial o nome do filme e o seu poster.
+Criação de um projeto para listar os filmes em cartaz no cinema utilizando a API The Movie Database (TMDb).
 
 **API**
 
