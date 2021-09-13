@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDb Challenge MVVM Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title_favorites">Favorites</string>
+    <string name="text_title_search">Search</string>
+    <string name="text_tittle_now_playing">Now Playing</string>
+</resources>
